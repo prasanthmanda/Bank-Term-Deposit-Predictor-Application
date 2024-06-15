@@ -18,10 +18,6 @@ This project aims to develop a predictive model to determine whether a customer 
 The dataset used for training the model is available on [Kaggle](https://www.kaggle.com/datasets/hariharanpavan/bank-marketing-dataset-analysis-classification).
 
 ## Folder Structure
-
-- `src/phase1`: Data cleaning and Exploratory Data Analysis (EDA) scripts.
-- `src/phase2`: Model training and evaluation scripts.
-- `src/phase3`: Final web application and required assets.
   - `templates/`: HTML files for the web UI.
   - `static/`: Static files such as generated plots.
   - `test-dataset1.csv` & `test-dataset2.csv`: Sample test datasets.
