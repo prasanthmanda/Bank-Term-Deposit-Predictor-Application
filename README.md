@@ -31,8 +31,7 @@ The dataset used for training the model is available on [Kaggle](https://www.kag
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/yourusername/bank-term-deposit-predictor.git
-   cd bank-term-deposit-predictor/src/phase3
-Instructions:
+2.Instructions:
 1. Run the app.py file to start the main application. You can do this either from a code editor like Visual Studio or from the terminal.
 a. For Visual Studio, Click on Run without Debugging
 b. For terminal, Run the command: python app.py
@@ -49,6 +48,7 @@ Sample Input:
 • Pdays: 200
 • Previous: 4
 • Poutcome: success
-        
+  ![Project Screenshot](https://github.com/prasanthmanda/Bank-Term-Deposit-Predictor-Application/blob/main/Picture1.png)      
  4. If you click on the ‘Enter Customer Dataset’ button on top of the page, you will see an option to upload a CSV file. You can test this functionality by running the application and upload the sample test datasets (test-dataset1.csv, test-dataset2.csv) present in the src/phase3 folder. The output will show the predictions along with the probability of enrolling in a tabular format as seen below:
-5. If you click on the ‘Analysis Charts’ button on top of the page, you will see the generated plots/charts related to the uploaded customer dataset depicting various patterns and trends of the customers. This can be seen below:
+
+6. If you click on the ‘Analysis Charts’ button on top of the page, you will see the generated plots/charts related to the uploaded customer dataset depicting various patterns and trends of the customers. This can be seen below:
