@@ -50,5 +50,8 @@ Sample Input:
 • Poutcome: success
   ![Project Screenshot](https://github.com/prasanthmanda/Bank-Term-Deposit-Predictor-Application/blob/main/Picture1.png)      
  4. If you click on the ‘Enter Customer Dataset’ button on top of the page, you will see an option to upload a CSV file. You can test this functionality by running the application and upload the sample test datasets (test-dataset1.csv, test-dataset2.csv) present in the src/phase3 folder. The output will show the predictions along with the probability of enrolling in a tabular format as seen below:
-
-6. If you click on the ‘Analysis Charts’ button on top of the page, you will see the generated plots/charts related to the uploaded customer dataset depicting various patterns and trends of the customers. This can be seen below:
+  ![Project Screenshot](https://github.com/prasanthmanda/Bank-Term-Deposit-Predictor-Application/blob/main/Picture2.png)   
+5. If you click on the ‘Analysis Charts’ button on top of the page, you will see the generated plots/charts related to the uploaded customer dataset depicting various patterns and trends of the customers. This can be seen below:
+  ![Project Screenshot](https://github.com/prasanthmanda/Bank-Term-Deposit-Predictor-Application/blob/main/Picture3.png)
+6.If you click on the ‘User Guide’ button on top of the page, you will see instructions on how to use the data product like this instruction guide.
+![Project Screenshot](https://github.com/prasanthmanda/Bank-Term-Deposit-Predictor-Application/blob/main/Picture4.png)
